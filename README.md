@@ -23,8 +23,8 @@ Endpoints
 
 1- Listar todos el invetario
 
-curl --location 'http://localhost:8080/api/inventario' \
+curl --location 'http://localhost:8081/api/inventario' \
 --header 'Accept: application/json'
 
 2- Lista inventario por producto Ejemplo: 1, 2
-curl --location 'http://localhost:8080/api/inventario/{idProducto}'
+curl --location 'http://localhost:8081/api/inventario/{idProducto}'
