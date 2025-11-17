@@ -1,0 +1,18 @@
+[
+  {
+    "idProducto": 1,
+    "nombreProducto": "Lapicero azul",
+    "descripcion": "Lapicero tinta azul 0.7mm",
+    "precio": 1200.0,
+    "unidadMedida": "UND",
+    "estado": true
+  },
+  {
+    "idProducto": 2,
+    "nombreProducto": "Cuaderno cuadriculado",
+    "descripcion": "Cuaderno 100 hojas",
+    "precio": 4500.0,
+    "unidadMedida": "UND",
+    "estado": true
+  }
+]

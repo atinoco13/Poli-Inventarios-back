@@ -1,0 +1,22 @@
+[
+  {
+    "idInventario": 1,
+    "idProducto": 1,
+    "stockActual": 100,
+    "stockReservado": 10,
+    "stockDisponible": 90,
+    "stockMinimo": 20,
+    "fechaActualizacion": "2025-11-16T10:00:00",
+    "estado": true
+  },
+  {
+    "idInventario": 2,
+    "idProducto": 2,
+    "stockActual": 50,
+    "stockReservado": 5,
+    "stockDisponible": 45,
+    "stockMinimo": 10,
+    "fechaActualizacion": "2025-11-16T11:00:00",
+    "estado": true
+  }
+]
