@@ -1,17 +1,41 @@
 [
   {
     "idProducto": 1,
-    "nombreProducto": "Lapicero azul",
-    "descripcion": "Lapicero tinta azul 0.7mm",
-    "precio": 1200.0,
+    "nombreProducto": "Gaseosa 350ml",
+    "descripcion": "Bebida carbonatada sabor cola",
+    "precio": 3500.0,
     "unidadMedida": "UND",
     "estado": true
   },
   {
     "idProducto": 2,
-    "nombreProducto": "Cuaderno cuadriculado",
-    "descripcion": "Cuaderno 100 hojas",
-    "precio": 4500.0,
+    "nombreProducto": "Papas Fritas Clásicas",
+    "descripcion": "Snack de papa sabor original",
+    "precio": 2800.0,
+    "unidadMedida": "UND",
+    "estado": true
+  },
+  {
+    "idProducto": 3,
+    "nombreProducto": "Chocolate de Mesa",
+    "descripcion": "Chocolate tradicional para bebida",
+    "precio": 4200.0,
+    "unidadMedida": "UND",
+    "estado": true
+  },
+  {
+    "idProducto": 4,
+    "nombreProducto": "Jugo de Naranja 500ml",
+    "descripcion": "Bebida de naranja natural",
+    "precio": 5200.0,
+    "unidadMedida": "UND",
+    "estado": false
+  },
+  {
+    "idProducto": 5,
+    "nombreProducto": "Agua Mineral 600ml",
+    "descripcion": "Agua con gas",
+    "precio": 2400.0,
     "unidadMedida": "UND",
     "estado": true
   }

@@ -18,5 +18,35 @@
     "stockMinimo": 10,
     "fechaActualizacion": "2025-11-16T11:00:00",
     "estado": true
+  },
+  {
+    "idInventario": 3,
+    "idProducto": 3,
+    "stockActual": 50,
+    "stockReservado": 5,
+    "stockDisponible": 45,
+    "stockMinimo": 10,
+    "fechaActualizacion": "2025-11-16T11:00:00",
+    "estado": true
+  },
+  {
+    "idInventario": 4,
+    "idProducto": 4,
+    "stockActual": 50,
+    "stockReservado": 5,
+    "stockDisponible": 45,
+    "stockMinimo": 10,
+    "fechaActualizacion": "2025-11-16T11:00:00",
+    "estado": false
+  },
+  {
+    "idInventario": 5,
+    "idProducto": 5,
+    "stockActual": 50,
+    "stockReservado": 5,
+    "stockDisponible": 45,
+    "stockMinimo": 10,
+    "fechaActualizacion": "2025-11-16T11:00:00",
+    "estado": true
   }
 ]
