@@ -32,9 +32,9 @@
   {
     "idInventario": 4,
     "idProducto": 4,
-    "stockActual": 50,
+    "stockActual": 0,
     "stockReservado": 5,
-    "stockDisponible": 45,
+    "stockDisponible": 0,
     "stockMinimo": 10,
     "fechaActualizacion": "2025-11-16T11:00:00",
     "estado": false

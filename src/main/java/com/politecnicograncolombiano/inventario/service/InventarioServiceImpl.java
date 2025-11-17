@@ -47,6 +47,12 @@ public class InventarioServiceImpl implements IInventarioService {
         dto.setUnidadMedida(producto.getUnidadMedida());
         dto.setStockDisponible(inventario.getStockDisponible());
         dto.setEstadoProducto(producto.getEstado());
+        
+        dto.setStockDisponible(inventario.getStockDisponible());
+        dto.setStockActual(inventario.getStockActual());
+        dto.setStockReservado(inventario.getStockReservado());
+        dto.setStockMinimo(inventario.getStockMinimo());
+        dto.setFechaActualizacion(inventario.getFechaActualizacion());
 
         return dto;
     }
